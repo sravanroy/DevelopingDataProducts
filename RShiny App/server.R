@@ -6,6 +6,8 @@ library(rlang)
 library(readr)
 library(MLmetrics)
 library(caret)
+library(glmnet)
+library(pls)
 
 shinyServer(function(input, output) {
   
