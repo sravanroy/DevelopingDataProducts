@@ -6,4 +6,4 @@
 
 > Enhanced interpretibility for models by looking at individual residual plots and parameters and better decisive power for final model
 
-### The Shiny Application is hosted at <https://sravanroy.shinyapps.io/Different_Regression_Analyses/>
+### The Shiny Application is hosted at <https://sravanroy.shinyapps.io/Regression/>
